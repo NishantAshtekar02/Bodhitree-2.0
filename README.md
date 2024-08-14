@@ -1,5 +1,10 @@
-# SDL-Project
-Online Student Learning Paltform
+Bodhitree_2.0
+A dynamic website showcasing an e-learning platform (Bodhitree 2.0).
 
-Designed a web page using HTML, CSS, and Bootstrap. Made a registration form for that website and validated it using Javascript. 
-Also made a backend using php and connected the form to the phpmyadmin and all the entries in the form will get stored in backend.
+Technologies Used:
+* Front end: Html, CSS , along with Bootstrap for designing purpose
+* Backend: done in PHP
+* Database: MySQL database
+* Done using the xampp server
+
+
